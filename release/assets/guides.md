@@ -1,1 +1,1 @@
-# Wkrótce zostanie opublikowany ✅
+# Wkrótce

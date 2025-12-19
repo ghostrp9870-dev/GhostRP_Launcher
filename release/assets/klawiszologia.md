@@ -1,15 +1,17 @@
 # Podstawowe sterowanie
 > "WASD" Poruszanie się postacią
-> "E" Interakcja
-> "X" Menu animacji
-> "Z" Schowaj broń
-
-# Pojazdy
-> "F" Światła pojazdu
-> "L" Zamek pojazdu
-> "G" Menu pojazdu
-> "H" Radio
+> "ALT" Interakcja
+> "SHIFT" Sprint
+> "CTRL" Kucanie / Przeciśnięcie się
+> "SPACE" Skok / Wchodzenie na przeszkody
+> "F" Wsiadanie / Wysiadanie z pojazdów
+> "ESC" Menu
 
 # Informacje
-> "M" Mapa
-> "TAB" Lista graczy
+> "Z" Zetka
+> "F2" Ekwipunek / Inventory
+> "F1" Menu serwera
+
+# Komunikacja
+> "T" Czat
+> "X" Gesty / Animacje

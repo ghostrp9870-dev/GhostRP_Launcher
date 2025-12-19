@@ -1,3 +1,3 @@
-> Dodanie Małego Przewodnika
-> Dodanie Nowych Mechanik
-> Dodanie: Changelog , News , Klawiszologie oraz Poradniki 
+> Poprawiona Została Mechanika Aktualizacji
+> Ładniejsze i rozbudowane UI
+> Luancher Oficialnie Wydany
