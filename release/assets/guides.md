@@ -1,8 +1,8 @@
-# Jak zacząć na GhostRP
-Treść poradnika...
+# Jak zaczac Na GhostRP
+- 1
+- 2
+- 3
+- 4
 
-## Rejestracja
-Opis...
-
-# Praca policji
-Opis...
+# Jak Rozpocząć Prace W policje
+> Test
