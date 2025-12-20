@@ -1,3 +1,3 @@
-> Poprawiona Została Mechanika Aktualizacji
-> Ładniejsze i rozbudowane UI
-> Luancher Oficialnie Wydany
+> Dodano rozszerzenie changelog
+> Poprawiono błędy w panelu gracza
+> Dodano animacje do UI
