@@ -1,3 +1,2 @@
-> Aktualizacja wyglądu News
-> DiscordRPC - Aktywności Na Discordzie
-> Dodano animacje do UI
+> Nowe okno nowości
+> Licznik „Do Startu Serwera”
