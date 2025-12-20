@@ -1,2 +1,2 @@
-> Nowe okno nowości
-> Licznik „Do Startu Serwera”
+> Nowe UI
+> Ciemny Motyw

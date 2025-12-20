@@ -1,3 +1,12 @@
+# Aktualizacja 2.0.0 – News
+> Launcher
+> 20.12.2025  
+> @MarcelowyMK https://cdn.discordapp.com/avatars/1210680831971037194/a_c54f3fa4475459dfd47a7e6d578abdc3.gif?size=1024
+- Nowe UI
+- Ciemny Motyw
+
+### Hex: "rgba(0, 123, 255, 0.8)"
+
 # Aktualizacja 1.2.2 – News
 > Launcher
 > 20.12.2025  
