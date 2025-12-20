@@ -1,5 +1,5 @@
 # Aktualizacja 1.2.0 – Changelog
-> luancher
+> Luancher
 > 20.12.2025
 > @MarcelowyMK https://cdn.discordapp.com/avatars/1210680831971037194/a_c54f3fa4475459dfd47a7e6d578abdc3.gif?size=1024
 - MarcelowyMK stworzył rozbudowany i przejrzysty changelog.
