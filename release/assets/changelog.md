@@ -1,3 +1,3 @@
-> Dodano rozszerzenie changelog
-> Poprawiono błędy w panelu gracza
+> Aktualizacja wyglądu News
+> DiscordRPC - Aktywności Na Discordzie
 > Dodano animacje do UI
