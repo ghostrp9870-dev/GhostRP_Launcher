@@ -1,2 +1,1 @@
-> Nowe UI
-> Ciemny Motyw
+> Szykowanie Aktualizacji
