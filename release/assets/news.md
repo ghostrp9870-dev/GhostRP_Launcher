@@ -39,6 +39,15 @@
 
 ### Hex: "rgba(0, 255, 55, 0.8)"
 
+# Start Serwera Przełożony
+> Discord
+> 16.12.2025
+> @MarcelowyMK https://cdn.discordapp.com/avatars/1210680831971037194/a_c54f3fa4475459dfd47a7e6d578abdc3.gif?size=1024
+- Hej! @Gracha i @MarcelowyMK nie będą mogli odpalić serwera o 10:00 ⏰ (godzina wybrana w ankietach).
+Nowy start serwera to 23.12.2025, godzina 15:00 🗓️🕒.
+
+### Hex: "rgba(255, 230, 0, 0.8)"
+
 # Nowa Strone GhostRP Wystartowała!
 > Discord
 > 12.12.2025
