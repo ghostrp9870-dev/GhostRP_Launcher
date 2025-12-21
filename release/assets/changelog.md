@@ -1,1 +1,2 @@
-> Szykowanie Aktualizacji
+> Aktualnie Changelog Zamknięty
+> Trwa Tworzenie Nowego
