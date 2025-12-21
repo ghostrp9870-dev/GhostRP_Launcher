@@ -1,2 +1,1 @@
-> TEst
-> Test
+> Dodano kropkę ( skin, broń )

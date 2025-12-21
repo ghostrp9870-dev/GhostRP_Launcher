@@ -1,2 +1,2 @@
-> Nowe UI
-> Ciemny Motyw
+> Nowy System Changelog
+> Dodano Nową Strone Fivem Changelog
