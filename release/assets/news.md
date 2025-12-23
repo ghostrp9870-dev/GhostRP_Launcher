@@ -1,3 +1,11 @@
+# Start Serwera GhostRolePlay
+> Fivem
+> 23.12.2025  
+> @MarcelowyMK https://cdn.discordapp.com/avatars/1210680831971037194/a_c54f3fa4475459dfd47a7e6d578abdc3.gif?size=1024
+- O godzinie 15:10 nastąpił oficjalny start serwera FiveM. Od tego momentu serwer jest w pełni dostępny dla graczy, a wszystkie systemy oraz skrypty działają poprawnie. Zapraszamy do wspólnej gry i życzymy miłej rozgrywki!
+
+### Hex: "rgba(255, 231, 13, 0.8)"
+
 # Aktualizacja 2.0.0 – News
 > Launcher
 > 20.12.2025  
@@ -69,6 +77,6 @@ Wpadajcie i zobaczcie sami! 🚀
 Serwer jest już gotowy. Teraz poprawiamy ostatnie rzeczy, dopieszczamy detale… Bo zależy nam, żeby wszystko było jak najlepsze.
 Jeśli chcecie, możecie wysłać link do DC swoim znajomym. Jeśli im się nie spodoba — to w porządku, mają prawo odejść. Mimo wszystko włożyliśmy w to naprawdę dużo pracy i serca.
 Nie wiem, czy ma to sens… ale jeśli chcecie zobaczyć coś przed startem, możecie zostawić reakcję na kanale ⁠🔗┃ʟᴇᴀᴋɪ  .
-Dziękuję, że jesteście. Naprawdę. ❤️
+Dziękuję, że jesteście. Naprawdę.
 
 ### Hex: "rgba(255, 251, 10, 0.8)"
