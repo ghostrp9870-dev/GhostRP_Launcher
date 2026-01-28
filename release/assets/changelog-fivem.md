@@ -1,1 +1,0 @@
-> Dodano kropkę ( skin, broń )
